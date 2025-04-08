@@ -1,68 +1,64 @@
 <h1 align="center">Hi 👋, I'm William Fernando</h1>
 <h3 align="center">🚀 Advanced Software Developer from Nicaragua</h3>
 
-<p align="center">💻 Passionate about building beautiful, scalable applications.<br>🌍 Ready to show my expertise to the world and keep leveling up!</p>
+<p align="center">I'm passionate about building cool stuff and improving my skills every day. Welcome to my digital space!</p>
 
 ---
 
-<h2 align="center">✨ About Me</h2>
+### 📊 GitHub Stats (Live)
 
-- 🔭 I’m currently working on **personal and client projects**
-- 🌱 I’m expanding my skills in **ReactJS** & modern frontend frameworks
-- 👯 Open to collaborate on **tech for good**, especially via **Facebook**
-- 📫 Reach me at: **wisofer17@gmail.com**
-- ⚡ Fun fact: *I'm a lifelong learner who enjoys turning ideas into digital experiences*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wisofer&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisofer&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wisofer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisofer&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wisofer&theme=tokyonight&hide_border=true" width="94%" />
+  <img src="https://streak-stats.demolab.com/?user=Wisofer&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">🧠 Tech Stack</h2>
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,mongodb,postgres,mysql,sqlite,java,dart,flutter,dotnet,azure,docker,kubernetes,linux,vscode,visualstudio,git,bootstrap,tailwind,androidstudio,nuget,github,yarn,jquery,trello" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wisofer&theme=tokyo-night&hide_border=false" />
 </p>
 
 ---
 
-<h2 align="center">🌍 Connect with Me</h2>
+### 🧠 My Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/william-borge-450798201/" target="_blank">
-    <img src="https://img.shields.io/badge/-William%20Borge-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.facebook.com/wisofer.wisofer.3" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,nodejs,express,mongodb,postgres,sqlite,dotnet,dart,flutter,java,azure,docker,kubernetes,linux,vscode,git,github,androidstudio" />
+</div>
 
 ---
 
-<h2 align="center">👁️ Visitor Count</h2>
-<p align="center">
+### 🚀 Projects & Passion
+
+- 🔭 Working on my own startup ideas.
+- 🌱 Improving my React.js skills.
+- 👯 Open to collaborating on innovative software.
+- 📫 Contact me at: **wisofer17@gmail.com**
+- ⚡ Fun fact: *I never stop learning!*
+
+---
+
+### 🌍 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/william-borge-450798201/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.facebook.com/wisofer.wisofer.3" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+</div>
+
+---
+
+### ⏳ Visitor Count
+
+<p align="left">
   <img src="https://profile-counter.glitch.me/Wisofer/count.svg" />
 </p>
-
----
-
-<h2 align="center">🧠 Random Dev GIF</h2>
-
-<p align="center">
-  <img src="https://omnilogic.com.br/midia/OMNI-cerebro.gif" height="180" />
-</p>
-
----
-
-> 💬 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*  
-> ⚙️ *Built with love and code by William Fernando from Nicaragua 🇳🇮*
