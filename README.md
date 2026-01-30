@@ -1,85 +1,126 @@
-<h2 align="left">Hi 👋! I'm William Fernando</h2>
+<h1 align="center">Hi 👋, I'm William Fernando</h1>
+<h3 align="center">Software Developer • Problem Solver • Product Builder</h3>
 
-<p>
-  Advanced Software Developer from <strong>Nicaragua 🇳🇮</strong>.
-</p>
-
-<p>
-  Passionate about building real-world applications, solving problems through code,
-  and continuously learning new technologies.
-</p>
-
-<p>
-  I love turning ideas into functional, scalable, and user-friendly solutions 🚀
+<p align="center">
+  <strong>From Nicaragua 🇳🇮</strong> <br />
+  Turning ideas into real, useful and scalable applications.
 </p>
 
 ---
 
-<h2 align="left">👀 Visitor Count</h2>
-<img src="https://profile-counter.glitch.me/Wisofer/count.svg" />
+## 🚀 Who I Am
+
+I’m a **Software Developer** passionate about building applications that solve real problems.
+
+I don’t just code features —  
+I focus on **usability, performance, and real-world impact**.
+
+I enjoy working on:
+- Full-stack web applications
+- Mobile apps
+- Backend systems
+- Startup-style products from zero to production
+
+> My goal is simple:  
+> **Build things people actually use.**
 
 ---
+
+## 🧠 Tech Stack
+
+### Frontend
+- React / Vite
+- JavaScript / TypeScript
+- HTML5 / CSS3
+- Bootstrap / Tailwind
+- Flutter (Mobile)
+
+### Backend
+- .NET
+- Node.js
+- REST APIs
+- Authentication (JWT)
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+
+### DevOps & Tools
+- Docker
+- Linux
+- Git & GitHub
+- Azure
+- Kubernetes (basic)
+- VS Code / Visual Studio
+
+---
+
+## 📌 Featured Projects
+
+### 🔎 BuscaYa
+**Local price comparison app**
+- Find products in nearby physical stores
+- Compare prices
+- Contact stores via WhatsApp
+- Focused on real local commerce, not e-commerce
+
+🛠 Flutter • API • Location-based logic
+
+---
+
+### 💈 BarbeNic
+**Management app for barbershops**
+- Appointments scheduling
+- Income & expenses tracking
+- Reports and statistics
+- QR / link for clients
+
+🛠 Flutter • Backend API • Business logic
+
+---
+
+### 🧾 GlowNic
+**Income & expense control system**
+- Daily, monthly & yearly reports
+- Simple UI for small businesses
+- Real financial visibility
+
+🛠 .NET • PostgreSQL • Business-focused UI
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Wisofer&show_icons=true&count_private=true&theme=dracula"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Wisofer&layout=compact&langs_count=6&theme=dracula"
-    height="150"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wisofer&show_icons=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wisofer&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
 ---
 
-<h2 align="left">💼 My Tech Stack & Experience</h2>
+## 🌍 Let’s Connect
 
-<img align="right" height="150" src="https://omnilogic.com.br/midia/OMNI-cerebro.gif" />
-
-<p>
-  I have experience developing web, mobile, and backend applications.
-  I enjoy working across the full stack and understanding how systems work end-to-end.
-</p>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-</div>
-
----
-
-<h2 align="left">🌐 Connect with Me</h2>
-
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/william-borge-450798201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/wisofer.wisofer.3" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-<h2 align="left">📌 About Me</h2>
+## 📬 Contact
 
-- 🔭 Currently working on **personal and startup projects**
-- 🌱 Learning **advanced React & modern frontend patterns**
-- 👯 Open to **collaborations and open-source projects**
-- 📫 Contact me at: **wisofer17@gmail.com**
-- ⚡ Fun fact: *Never stop learning — technology evolves every day*
+- 📧 Email: **wisofer17@gmail.com**
+- 💬 Open to collaborations, freelance work & startups
 
+---
+
+## ⚡ Personal Philosophy
+
+> Consistency beats talent when talent stops trying.  
+> I keep learning, building and improving — every single day.
